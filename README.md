@@ -50,21 +50,12 @@
 ## Screenshot 📸
 Berikut adalah beberapa tampilan dari aplikasi **Footy Standings**:
 
-1. **Halaman Klasemen Liga**
-   ![Klasemen Liga](screenshots/screenshot-1.png)  
-   Tampilan klasemen liga dengan peringkat dan poinnya.
-
-2. **Halaman Jadwal Pertandingan**
-   ![Jadwal Pertandingan](screenshots/screenshot-2.png)  
-   Tampilan jadwal pertandingan mendatang dengan informasi waktu dan tim yang bertanding.
-
-3. **Halaman Top Skor**
-   ![Top Skor](screenshots/screenshot-3.png)  
-   Daftar pencetak gol terbanyak beserta timnya.
-
-4. **Halaman Detail Klub**
-   ![Detail Klub](screenshots/screenshot-4.png)  
-   Tampilan detail informasi klub dengan logo.
+| **Halaman**           | **Deskripsi**                                                 | **Gambar**                             |
+|------------------------|-------------------------------------------------------------|----------------------------------------|
+| **Klasemen Liga**      | Tampilan klasemen liga dengan peringkat dan poinnya.         | ![Klasemen Liga](screenshots/screenshot-1.png) |
+| **Jadwal Pertandingan**| Informasi jadwal pertandingan mendatang.                    | ![Jadwal Pertandingan](screenshots/screenshot-2.png) |
+| **Top Skor Pemain**    | Daftar pencetak gol terbanyak beserta timnya.                | ![Top Skor](screenshots/screenshot-3.png) |
+| **Detail Klub**        | Tampilan detail informasi klub dengan logo.                 | ![Detail Klub](screenshots/screenshot-4.png) |
 
 ---
 
