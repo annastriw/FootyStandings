@@ -19,7 +19,7 @@
    Menampilkan peringkat, poin, dan statistik tim di setiap liga.  
 
 2. **Jadwal Pertandingan**  
-   Informasi jadwal pertandingan mendatang dengan detail waktu, tim, dan lokasi.  
+   Informasi jadwal pertandingan mendatang dengan detail waktu, tanggal, dan tim yang akan berlaga.
 
 3. **Top Skor Pemain**  
    Data pencetak gol terbanyak dari masing-masing liga.  
@@ -52,7 +52,7 @@ Berikut adalah beberapa tampilan dari aplikasi **Footy Standings**:
 
 1. **Halaman Klasemen Liga**
    ![Klasemen Liga](screenshots/screenshot-1.png)  
-   Tampilan klasemen liga dengan detail tim dan peringkat.
+   Tampilan klasemen liga dengan peringkat dan poinnya.
 
 2. **Halaman Jadwal Pertandingan**
    ![Jadwal Pertandingan](screenshots/screenshot-2.png)  
@@ -64,7 +64,7 @@ Berikut adalah beberapa tampilan dari aplikasi **Footy Standings**:
 
 4. **Halaman Detail Klub**
    ![Detail Klub](screenshots/screenshot-4.png)  
-   Tampilan detail informasi klub dengan logo dan statistik tim.
+   Tampilan detail informasi klub dengan logo.
 
 ---
 
