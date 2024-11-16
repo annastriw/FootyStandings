@@ -1,0 +1,38 @@
+name: footy_standings
+description: "A Football Standings Table App"
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+  http: ^1.2.2
+  iconsax: ^0.0.8
+  flutter_svg: ^2.0.3
+  url_launcher: ^6.0.20
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/pl.png
+    - assets/laliga.png
+    - assets/bundesliga.png
+    - assets/seria.png
+    - assets/ligue1.png
+    - assets/nos.png
+    - assets/profile_picture.png
